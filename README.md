@@ -71,3 +71,7 @@ BAP578-X is the missing operational layer.
 npm i bap578-x
 # or
 npx bap578-x ping --chain bsc
+
+
+Team vault address
+0x9eed974df39b67eb65afa86f38a957b193bc804b
